@@ -146,4 +146,4 @@ MIT License - free to use, study, and build upon.
 
 ---
 
-<p align="center">Made with 🕸️ by <a href="https://github.com/compiledbyutkarsh">compiled by utkarsh</a></p>
+<p align="center">Made with 🕸️ by <a href="https://github.com/compiledbyutkarsh">compiledbyutkarsh</a></p>
